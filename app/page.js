@@ -114,8 +114,8 @@ const Home = () => {
         <canvas
           ref={canvasRef}
           className="absolute inset-0 w-full h-full"
-          width={window.innerWidth}
-          height={window.innerHeight}
+          // width={window.innerWidth}
+          // height={window.innerHeight}
         ></canvas>
       </section>
 
